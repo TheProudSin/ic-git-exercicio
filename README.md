@@ -1,4 +1,4 @@
-# Projeto de Introdução à Computação - Versão A
+# Projeto de Introdução à Computação - Versão B
 Projeto para praticar comandos Git.
 
 ## Funcionalidades
