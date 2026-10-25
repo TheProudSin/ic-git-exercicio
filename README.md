@@ -1,4 +1,4 @@
-# IC Git Exercício
+# Projeto de Introdução à Computação - Versão A
 Projeto para praticar comandos Git.
 
 ## Funcionalidades
