@@ -1,0 +1,3 @@
+Aprendi a criar repositórios Git.
+Aprendi a fazer commits.
+Aprendi a sincronizar com GitHub.
